@@ -1,0 +1,7 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+data/calvad.db
+data/uploads/
+.DS_Store
+.env
